@@ -29,7 +29,7 @@ O Sistema _Web_ desenvolvido tem como objetivo auxiliar na organização e prati
 
 Após o login, você terá acesso total às funcionalidades do site.
 
-Você a seguinte tela inicial:
+Você vera a seguinte tela inicial:
 
 ![image](https://github.com/user-attachments/assets/2214d238-ef22-4929-9739-4a2b7e3fbe95)
 
@@ -62,7 +62,7 @@ Ana Gabrielly De Almeida Pereira
 
 Maria Julia Da Silva Melo
 
-Rhafaela Fernandes 
+Rhafaela Fernandes Pereira
 
 ## **Como citar o projeto**
 
