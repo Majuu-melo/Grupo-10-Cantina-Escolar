@@ -1,12 +1,12 @@
  # **Desenvolvimento de um Sistema _Web_ para Auxiliar na Organização da Cantina Escolar da Etec de Campo Limpo Paulista**
 
-imagem logo png
+![image](https://github.com/user-attachments/assets/b354cfde-4127-44db-9b19-99c2dc33a0ab)
 
- ## **Sobre**
+## 🖊️ **Sobre**
 
-O Sistema _Web_ desenvolvido tem como objetivo auxiliar na organização e praticidade da cantina escolar através do meio digital, trazendo facilidade, agilidade e praticidade na hora do intervalo. A interface é desenvolvida para ser intuitiva, permitindo que todos os usuários consigam realizar suas funcionalidades com praticidade.
+O Sistema _Web_ desenvolvido tem como objetivo auxiliar na organização e praticidade da cantina escolar através do meio digital, trazendo facilidade, agilidade e otimização do tempo no intervalo para realizar a compra na cantina escolar. A interface é desenvolvida para ser intuitiva, permitindo que todos os usuários consigam realizar suas funcionalidades com rapidez e eficâcia.
 
-## **Preparação para iniciar projeto**
+## 🖥️ **Preparação para iniciar projeto**
 
 ## **Pré requisitos**
 
@@ -18,22 +18,23 @@ O Sistema _Web_ desenvolvido tem como objetivo auxiliar na organização e prati
 
 **1.** Inicie o XAMPP e ative o servidor Apache e o banco de dados MySQL.
 
-**2.** Escolha a opção Criar novo banco de dados, escreva o nome **cantina_escolar**.
+**2.** Clique na pasta **TCC_cantina_escolar.zip** para fazer e _download_  do projejo, após baixar basta descompactar a pasta.
 
-**3.** Para prencher os dados, basta exportar escolhendo o arquivo da **cantina_escolar.sql** !
+**3.** Escolha a opção Criar novo banco de dados, escreva o nome **cantina_escolar**.
 
-**4.** Coloque o arquivo baixado para pasta  `C:\xampp\htdocs`.
+**4.** Para prencher os dados, basta exportar escolhendo o arquivo da **cantina_escolar.sql** !
 
-**5.** Para acessar o projeto, basta abrir o navegador, digite `http://localhost/siteatualizado no navegador`.
+**5.** Coloque o arquivo baixado e descompactado para pasta `C:\xampp\htdocs`.
 
-
+**6.** Para acessar o projeto, basta abrir o navegador, digite `http://localhost/TCC_cantina_escolar no navegador`.
+       
 Após o login, você terá acesso total às funcionalidades do site.
 
-Você vera a seguinte tela inicial:
+Você verá a seguinte tela inicial:
 
 ![image](https://github.com/user-attachments/assets/2214d238-ef22-4929-9739-4a2b7e3fbe95)
 
-## **Criando uma conta**
+## 📌 **Criando uma conta**
 
 Para usar todas as funcionalidades do site, você precisa estar logado. Caso você ainda não tenha uma conta:
 
@@ -56,7 +57,7 @@ Para acessar a área do funcionário use:
 
 **Senha:** `852367`
 
-## **Autores**
+## ✍️ **Autores**
 
 Ana Gabrielly De Almeida Pereira
 
@@ -64,7 +65,7 @@ Maria Julia Da Silva Melo
 
 Rhafaela Fernandes Pereira
 
-## **Como citar o projeto**
+## 🌐 **Como citar o projeto**
 
 Se você utilizar este projeto em sua pesquisa, artigo, ou trabalho, por favor, cite-o da seguinte forma:
 
