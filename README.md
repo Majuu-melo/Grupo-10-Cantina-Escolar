@@ -26,6 +26,7 @@ O Sistema _Web_ desenvolvido tem como objetivo auxiliar na organização e prati
 
 **5.** Para acessar o projeto, basta abrir o navegador, digite `http://localhost/siteatualizado no navegador`.
 
+
 Após o login, você terá acesso total às funcionalidades do site.
 
 Você a seguinte tela inicial:
