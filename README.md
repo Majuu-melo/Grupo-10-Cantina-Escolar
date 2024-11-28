@@ -18,7 +18,7 @@ O Sistema _Web_ desenvolvido tem como objetivo facilitar a organização e otimi
 
 **1.** Inicie o XAMPP e ative o servidor Apache e o banco de dados MySQL.
 
-**2.** Clique na pasta **TCC_cantina_escolar.zip** para fazer o _download_  do projejo, após baixar basta descompactar a pasta.
+**2.** Clique na pasta **TCC_cantina_escolar.zip** para fazer o _download_  do projeto, após baixar descompacte a pasta.
 
 **3.** Escolha a opção Criar novo banco de dados, escreva o nome **cantina_escolar**.
 
