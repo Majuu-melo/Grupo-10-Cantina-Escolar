@@ -69,4 +69,4 @@ Rhafaela Fernandes Pereira
 
 Se você utilizar este projeto em sua pesquisa, artigo, ou trabalho, por favor, cite-o da seguinte forma:
 
-PEREIRA, Ana; MELO, Maria; PEREIRA, Rhafaela. **Desenvolvimento de um Sistema Web para auxiliar na organização da Etec de Campo Limpo Paulista.** GitHub, ano. Disponível em: https://github.com/Majuu-melo/Grupo-10-Cantina-Escolar. Acesso em: dia mês ano.
+PEREIRA, Ana; MELO, Maria; PEREIRA, Rhafaela. **Desenvolvimento de um Sistema Web para auxiliar na organização da Cantina Escolar da Etec de Campo Limpo Paulista.** GitHub, ano. Disponível em: https://github.com/Majuu-melo/Grupo-10-Cantina-Escolar. Acesso em: dia mês ano.
